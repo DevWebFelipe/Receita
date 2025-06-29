@@ -36,6 +36,9 @@ body {
 img {
   border-radius: 16px;  
   object-fit: contain;
+}
+
+div img {
   width: 100%;
 }
 
